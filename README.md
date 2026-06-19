@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ResumeIQ - AI Resume Screening & Job Match Analyzer
 
 ## Overview
@@ -57,3 +58,7 @@ ResumeIQ/
 ## Author
 
 Nived Krishnan J
+=======
+# resumeiq-career-assistant
+AI-powered resume analysis platform that evaluates ATS compatibility, matches resumes with job descriptions, identifies skill gaps, and provides personalized career recommendations.
+>>>>>>> f598f8e98fdd40b25d73ef54efb38e1c9359d700
